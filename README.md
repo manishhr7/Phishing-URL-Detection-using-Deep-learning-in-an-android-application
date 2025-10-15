@@ -2,7 +2,7 @@
 
 This is an Android application for phishing URL detection. The model is trained using deep learning (CRNN) and the dataset used is available at: https://github.com/ebubekirbbr/dephides
 
-Description
+## Description
 
 A simple Android app that classifies URLs as phishing or benign using a CRNN (Convolutional Recurrent Neural Network) trained on the Dephides dataset. The app demonstrates how a lightweight deep-learning model can be integrated into an Android application for real-time URL screening.
 
