@@ -1,4 +1,4 @@
-#Android Phishing URL Detection
+# Android Phishing URL Detection
 
 This is an Android application for phishing URL detection. The model is trained using deep learning (CRNN) and the dataset used is available at: https://github.com/ebubekirbbr/dephides
 
